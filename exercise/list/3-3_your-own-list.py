@@ -1,6 +1,7 @@
 # Author: Adomous Wright
 # Date: 12/25/17
 
+# Print a different statements using a list
 vehicles = ['Honda Civic','Toyota Highlander','Chevy Volt']
 
 print('I currently own a ' + vehicles[0])
