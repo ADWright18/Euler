@@ -2,6 +2,7 @@
 # Problem 005
 
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+# Make it look better
 
 smallest = 1
 master_primes = []
